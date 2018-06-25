@@ -1,0 +1,25 @@
+{
+  "name": "royaleweb",
+  "version": "1.0.0",
+  "description": "皇室戰爭友誼賽戰績",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webber0928/royaleWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webber0928/royaleWeb/issues"
+  },
+  "homepage": "https://github.com/webber0928/royaleWeb#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.10",
+    "moment-timezone": "^0.5.21"
+  }
+}
